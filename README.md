@@ -16,5 +16,6 @@ In Gaussian Blur operation, the image is convolved with a Gaussian filter instea
 
 *Output image/Skecth image
 
-<img src="https://user-images.githubusercontent.com/91316387/176991386-f7d22ba4-04ef-4114-b04b-55e459ed821e.pn" align="centre" width="350" height="350">
+![image](https://user-images.githubusercontent.com/91316387/176991772-8a56564b-44f0-4ef7-b628-460b7bdb62a5.png)
+
 
