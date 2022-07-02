@@ -12,9 +12,9 @@ In Gaussian Blur operation, the image is convolved with a Gaussian filter instea
 
 *Input Image/Live image
 
-<img src="https://user-images.githubusercontent.com/91316387/176991378-b25a4ae5-145b-4a83-89ee-2b075c192801.png" align="centr" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/91316387/176991378-b25a4ae5-145b-4a83-89ee-2b075c192801.png" align="centre" width="350" height="350">
 
 *Output image/Skecth image
 
-<img src="https://user-images.githubusercontent.com/91316387/176991386-f7d22ba4-04ef-4114-b04b-55e459ed821e.pn" align="centr" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/91316387/176991386-f7d22ba4-04ef-4114-b04b-55e459ed821e.pn" align="centre" width="350" height="350">
 
