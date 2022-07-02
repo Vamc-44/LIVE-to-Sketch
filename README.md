@@ -10,15 +10,16 @@ In Gaussian Blur operation, the image is convolved with a Gaussian filter instea
 
 **Output of the Program**
 
-*Input Image/Live image
+*Input Image/Live image*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91316387/176991795-326ad1b9-282c-4392-8aa6-c333c3070f89.png">
 </p>
-![image](https://user-images.githubusercontent.com/91316387/176991795-326ad1b9-282c-4392-8aa6-c333c3070f89.png)
 
-*Output image/Skecth image
+*Output image/Skecth image*
 
-![image](https://user-images.githubusercontent.com/91316387/176991772-8a56564b-44f0-4ef7-b628-460b7bdb62a5.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91316387/176991772-8a56564b-44f0-4ef7-b628-460b7bdb62a5.png">
+</p>
 
 
