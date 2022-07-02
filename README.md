@@ -13,7 +13,7 @@ In Gaussian Blur operation, the image is convolved with a Gaussian filter instea
 *Input Image/Live image
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/91316387/176991795-326ad1b9-282c-4392-8aa6-c333c3070f89.png">
+  <img src="https://user-images.githubusercontent.com/91316387/176991795-326ad1b9-282c-4392-8aa6-c333c3070f89.png">
 </p>
 ![image](https://user-images.githubusercontent.com/91316387/176991795-326ad1b9-282c-4392-8aa6-c333c3070f89.png)
 
