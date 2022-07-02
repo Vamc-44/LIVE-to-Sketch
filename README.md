@@ -23,7 +23,7 @@ In Gaussian Blur operation, the image is convolved with a Gaussian filter instea
 </p>
 
 
-Basic Image to Image skecth
+*Basic Image to Image skecth*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91316387/176992177-8af00a2b-1434-4f5c-af29-81024d43988a.png">
