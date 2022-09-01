@@ -1,4 +1,4 @@
-#Live_sketch_drwaing_using_python_opencv
+#Live_sketch_drawing_using_python_opencv
 
 #importing opencv for image and video classification and numpy for using arrays for storing image size
 
